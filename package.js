@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'nucleusideCores:simplewebrtc',
+  name: 'nucleusidecores:simplewebrtc',
   version: '0.0.1',
   summary: 'SimpleWebRTC packaged for meteor, including signalmaster server. ',
   git: '',
